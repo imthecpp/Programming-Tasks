@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+Reversing a string in two ways.
+ */
 public class ReverseString {
 
     public static void main(String[] args) {
